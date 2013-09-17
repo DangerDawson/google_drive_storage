@@ -9,10 +9,11 @@
 
 A gem that allows you to use google drive to store files such as csv's.
 
-## Install
+## Install 
+put the following in your Gemfile
 
-```bash
-$ gem install google_drive_storage
+```ruby
+gem 'google_drive_storage', git: 'git@github.com:DangerDawson/google_drive_storage.git'
 ```
 
 ## Example Usage
